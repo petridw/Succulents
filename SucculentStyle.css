@@ -1,0 +1,61 @@
+body {
+	background: none;
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	font-family: Georgia;
+}
+figure {
+	width: 410px;
+	margin: 0 auto 10px auto;
+	padding: 5px 0 5px 0;
+	font-size: 16px;
+	
+	overflow: auto;
+}
+figcaption {
+	padding: 0 0 5px 0;
+	margin-top: 3px;
+	border-bottom: 1px dotted rgba(0, 170, 170, 1);
+}
+figcaption p {
+	padding: 0;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	font-size: 14px;
+}
+img {
+	border: 1px solid rgba(170, 170, 170, 1);
+	margin: 0;
+	padding: 4px;
+	max-width: 400px;
+	max-height: 400px;
+}
+a {
+	color: maroon;
+	text-decoration: none;
+}
+.header {
+	padding: 15px 0 10px 0;
+	margin: 0;
+	text-align: center;
+}
+.header h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 26px;
+	font-style: bold;
+	text-transform: uppercase;
+}
+.content {
+	padding: 0;
+	margin: 0 auto;
+	max-width: 800px;
+	text-align: center;
+}
+.footer {
+	text-align: center;
+	font-size: 12px;
+	padding: 10px;
+	margin: 0;
+}
